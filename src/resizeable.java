@@ -1,5 +1,3 @@
-public class resizeable {
-    void resize(double percent) {
-
-    }
+public interface resizeable {
+    void resize(double percent);
 }

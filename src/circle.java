@@ -26,7 +26,7 @@ public class circle extends shape implements resizeable {
     public String toString(){
         return "circle{ "
                 + "radius = " + radius
-                + "area = " + this.getArea()
+                + " area = " + this.getArea()
                 + " }";
     }
 }
